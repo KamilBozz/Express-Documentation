@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Express.js
 site_url: https://sitename.example
 repo_url: https://github.com/KamilBozz/mkdocs-material-tutorial.git
 theme: 
@@ -70,4 +70,4 @@ markdown_extensions:
 #   social:
 #     - icon: simple/linkedin
 
-copyright: Copyright &copy; 2025 Kamil Bozkurt & Stefan Dorosh
+copyright: Copyright &copy; 2026 Kamil Bozkurt & Stefan Dorosh
